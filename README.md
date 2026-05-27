@@ -27,11 +27,11 @@ Backend:
 
 ### Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assests/dashboard.png)
 
 ### Analysis Report
 
-![Report](assets/Carbon_Analytics.png)
+![Report](assests/Carbon_Analytics.png)
 
 ## Running the Project
 
